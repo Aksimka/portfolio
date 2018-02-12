@@ -9,9 +9,9 @@ body {
   margin: 0 auto; }
 
 .header {
-  background: url("/../images/header-bg.PNG") top no-repeat; }
+  background-image: url("/../images/header-bg.PNG"); }
 
-.header-bg {
+.header-layout {
   background: rgba(12, 111, 213, 0.7); }
 
 .header__button-place {
