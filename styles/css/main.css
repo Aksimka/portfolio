@@ -9,7 +9,10 @@ body {
   margin: 0 auto; }
 
 .header {
-  background: url("../../images/header-bg.PNG") top no-repeat; }
+  background: url("../../images/header-bg2.PNG") top no-repeat;
+  -webkit-background-size: cover;
+        -o-background-size: cover;
+           background-size: cover; }
 
 .header-layout {
   background: rgba(12, 111, 213, 0.7); }
