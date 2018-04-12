@@ -9,7 +9,7 @@ body {
   margin: 0 auto; }
 
 .header {
-  background: url("../../images/header-bg2.PNG") top no-repeat;
+  background: url("../../images/header-bg.png") top no-repeat;
   -webkit-background-size: cover;
         -o-background-size: cover;
            background-size: cover; }
